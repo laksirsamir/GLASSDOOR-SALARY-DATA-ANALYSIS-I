@@ -25,3 +25,5 @@ job_simp: Job type
 seniority: if job type is senior or not (Boolean)
 
 Source : https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor/data?select=Uncleaned_DS_jobs.csv
+
+I provided a descreptive analysis of Job Posting on Glassdoor : The code sources can be found in the workspace file
